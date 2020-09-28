@@ -1,0 +1,16 @@
+img{
+	width:30%;/*each img takes up 30% of the body so 3 imgs fit in a single line and we'll have 10% of body left (30% * 3)*/
+	float: left;
+	margin:1.66%/*there will be 6 margins across each row of images*/;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	margin-left:1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	width:30%;
+	padding-bottom:20px;
+}
